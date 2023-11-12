@@ -37,6 +37,11 @@
 </p>
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgh021&show_icons=true&locale=en&layout=compact" alt="jgh021" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=databot007&show_icons=true&locale=en" alt="databot007" /></p>
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:jkhee0721@deepsales.com"><img src="https://img.shields.io/badge/-jkhee0721@deepsales.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
